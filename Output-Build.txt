@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: WR, Configuration: Debug Win32 ------
+1>  WR.vcxproj -> C:\Users\niccolo\Documents\Visual Studio 2010\Projects\WR\Debug\WR.exe
+--------------------- Done ----------------------
+
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
